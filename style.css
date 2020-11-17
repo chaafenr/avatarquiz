@@ -1,0 +1,40 @@
+
+/* CSS files add styling rules to your content */
+
+
+  
+
+
+body {
+  font-family: "Verdana";
+  margin: 2em;
+  background-image: url("https://cdn.glitch.com/3efaddfe-34b0-444a-a1c6-e76a027c4db6%2Fbackground.jpeg?v=1597371220443");
+  background-repeat: round;
+}
+
+h1 {
+  font-style: italic;
+  color: white;
+}
+
+h2 {
+  margin-top: 2em; 
+  color: lavender;
+  
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
+
+
+button {
+  background-color: lightblue;
+  font-family: "Verdana";
+  text-transform: lowercase;
+}
